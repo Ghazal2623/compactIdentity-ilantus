@@ -30,5 +30,3 @@ The goal was to make billing and reporting easier and faster.
 1. Download or clone this project.  
 2. Open terminal or command prompt, go to the folder with these files.  
 3. Compile the code. 
-2. Open terminal or command prompt, go to the folder with these files.  
-3. Compile the code:  
