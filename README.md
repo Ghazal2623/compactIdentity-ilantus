@@ -26,7 +26,7 @@ The goal was to make billing and reporting easier and faster.
 - Example program that uses the Billing and Reports modules.  
 - Shows how to create invoices, mark payments, and print reports.
 
-## How To Run
-1. Download or clone this project.  
-2. Open terminal or command prompt, go to the folder with these files.  
-3. Compile the code. 
+*Author:* Ghazal Ashraf  
+*Role:* Java Developer / Software Consultant  
+*Email:* ghazal.ashraf24@gmail.com  
+*LinkedIn:* (https://www.linkedin.com/in/ghazal-ashraf)
